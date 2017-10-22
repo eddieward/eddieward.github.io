@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Lost Coast Dev!"
-date:   2016-02-21 00:00:00 +0700
+date:   2017-10-21 00:00:00 +0700
 categories: jekyll update
 ---
 Welcome to the Lost Coast of Northern California.  Humboldt County.
